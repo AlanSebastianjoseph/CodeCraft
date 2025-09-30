@@ -51,12 +51,13 @@ int main() {
 
     insertEnd(&head, 14);
     insertEnd(&head, 13);
-    insertEnd(&head, 7);
+    insertEnd(&head, 30);
 
 
     displayList(head);
 
     return 0;
 }
+
 
 
